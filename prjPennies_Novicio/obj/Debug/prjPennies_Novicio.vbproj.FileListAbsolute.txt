@@ -1,0 +1,12 @@
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\bin\Debug\prjPennies_Novicio.exe.config
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\bin\Debug\prjPennies_Novicio.exe
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\bin\Debug\prjPennies_Novicio.pdb
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\bin\Debug\prjPennies_Novicio.xml
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.vbprojAssemblyReference.cache
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.Form1.resources
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.Resources.resources
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.vbproj.GenerateResource.cache
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.vbproj.CoreCompileInputs.cache
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.exe
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.xml
+C:\Users\yanna\source\repos\prjPennies_Novicio\prjPennies_Novicio\obj\Debug\prjPennies_Novicio.pdb
